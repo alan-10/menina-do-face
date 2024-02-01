@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link, useLocation, useHistory } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { BackgroundLogin, LoginDiv, InputLogin, ButtonLogin, SenhaInvalid } from './styles';
 import HeaderGenerico from "../../Components/HeaderGenerico";
 

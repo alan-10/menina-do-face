@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 
-import { Burger, Container, HeaderWrapper, Line, Logo, Menu, Nav, NavLink, } from "./Styles"
+import { Burger, Container, HeaderWrapper, Line, Logo, Nav } from "./Styles"
 
 
 import { ButtonAP } from "../Button";
